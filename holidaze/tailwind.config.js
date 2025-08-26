@@ -1,27 +1,27 @@
 /** @type {import('tailwindcss').Config} */
+
 export default {
- content: [
-  "./index.html",
-  "./src/**/*.{js,ts,jsx,tsx}",
-  "./node_modules/flowbite/**/*.js",
- ],
- theme: {
-  extend: {
-   colors: {
-    primary: "#1E3A8A",
-    secondary: "#38BDF8",
-    accent: "#F472B6",
-    muted: "#94A3B8",
-    background: "#F8FAFC",
-    surface: "#FFFFFF",
-    border: "#E2E8F0",
-    highlight: "#FEF9C3",
-   },
-   screens: {
-    xs: "400px",
-    sm: "616px",
-    md: "725px",
-   },
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/flowbite/**/*.js",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        "dark-blue": "#2A3D56",
+        "soft-pink": "#FFAAA8;",
+        "light-blue": "#E9EFF4",
+        "dark-gray": "#565656",
+        "almost-white": "#fefefe",
+      },
+      screens: {
+        xs: "400px",
+        sm: "616px",
+        md: "725px",
+      },
+    },
   },
- },
+  // eslint-disable-next-line no-undef
+  plugins: [require("flowbite/plugin")],
 };
