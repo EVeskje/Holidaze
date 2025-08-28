@@ -95,4 +95,4 @@ This project is developed as part of a student assignment and is not a productio
 ## 📬 Contact
 
 Made by [Eirik Nordstrand Veskje]
-For inquiries, reach out via eirik.nv@hotmail.com or GitHub [@eirikveskje](https://www.linkedin.com/in/env-link/)
+For inquiries, reach out via eirik.nv@hotmail.com or LinkedIn [@eirikveskje](https://www.linkedin.com/in/env-link/)
