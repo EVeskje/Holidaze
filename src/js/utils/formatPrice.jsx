@@ -1,5 +1,3 @@
-// src/js/utils/formatPrice.jsx
-
 /** Parse numbers safely from number|string inputs */
 function toNumber(value) {
   if (typeof value === "number" && Number.isFinite(value)) return value;
