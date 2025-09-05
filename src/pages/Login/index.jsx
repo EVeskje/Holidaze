@@ -6,7 +6,7 @@ import { TextLink } from "../../components/ui_elements/TextLink";
 
 
 // ---------------------------------------------
-// Log in Page
+// Log In Page
 // ---------------------------------------------
 
 export const LogIn = () => {
@@ -41,7 +41,26 @@ export const LogIn = () => {
               </div>
             </div>
 
-     
+            {/* Form */}
+            <div className="p-5 md:p-6 ">
+              <LogInForm />
+
+              {/* Divider */}
+              <div className="mt-6 flex items-center gap-3">
+                <span className="h-px w-full bg-secondary/10" />
+                <span className="text-xs text-secondary">or</span>
+                <span className="h-px w-full bg-secondary/10" />
+              </div>
+
+              {/* Sign up link */}
+              <div className="mt-4 text-center">
+                <Link to="/signUp" aria-label="Sign up">
+                  <TextLink>
+                    Don’t have an account? <span className="font-medium">Sign up</span>
+                  </TextLink>
+                </Link>
+              </div>
+            </div>
           </article>
         </section>
       </main>
