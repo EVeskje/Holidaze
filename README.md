@@ -50,9 +50,9 @@ The application consists of two main user flows:
 
 - **Framework**: React
 - **CSS Framework**: Tailwind CSS
-- **API**: Holidaze API (provided by Noroff)
+- **API**: API (provided by Noroff)
 - **Design**: Figma
-- **Planning**: GitHub Projects
+- **Planning**: Trello
 - **Hosting**: Netlify
 
 ---
@@ -61,13 +61,13 @@ The application consists of two main user flows:
 
 | Resource              | Link                             |
 |-----------------------|----------------------------------|
-| 💻 Live Demo          | [Holidaze Demo](https://...)     |
-| 📁 Repository         | [GitHub Repository](https://...) |
+| 💻 Live Demo          | [Holidaze Demo](https://holi-daiz.netlify.app/)     |
+| 📁 Repository         | [GitHub Repository](https://github.com/EVeskje/Holidaze.git) |
 | 🎨 Figma Design       | [Figma Prototype](https://...)   |
 | 🎯 Style Guide        | [Style Guide](https://...)       |
 | 🗓️ Gantt Chart        | [Gantt Chart](https://...)       |
 | 🗂️ Kanban Board       | [GitHub Project Board](https://...) |
-| 📚 API Documentation  | [Holidaze API Docs](https://docs.noroff.dev/docs/v2dev/docs) |
+| 📚 API Documentation  | [Holidaze API Docs](https://docs.noroff.dev/docs/v2) |
 
 ---
 
@@ -83,7 +83,7 @@ The application consists of two main user flows:
 
 ## 📸 Screenshots
 
-
+![Screenshot of website](/src/assets/images/holidazeScreenshot.jpg)
 ---
 
 ## ⚠️ Disclaimer
