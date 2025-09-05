@@ -59,7 +59,7 @@ export const SignUp = () => {
 
               {/* Log in link */}
               <div className="mt-4 text-center">
-                <Link to="/login" aria-label="Log in">
+                <Link to="/logIn" aria-label="Log in">
                   <TextLink>
                     Already have an account? <span className="font-medium">Log in</span>
                   </TextLink>

@@ -63,7 +63,7 @@ export const HeaderNav = () => {
           <div className="hidden md:flex items-center gap-3">
             {!token ? (
               <>
-                <Link to="/login" className="px-4 py-2 rounded-md text-secondary hover:text-accent transition-colors">
+                <Link to="/logIn" className="px-4 py-2 rounded-md text-secondary hover:text-accent transition-colors">
                   Log in
                 </Link>
                 <Link
@@ -152,7 +152,7 @@ export const HeaderNav = () => {
                 {!token ? (
                   <>
                     <Link
-                      to="/login"
+                      to="/logIn"
                       onClick={() => setOpen(false)}
                       className="flex-1 rounded-md px-3 py-2 text-secondary hover:text-accent transition-colors"
                     >
