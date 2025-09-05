@@ -8,9 +8,7 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        logo: ["Playfair Display", "serif"],
-      },
+      logo: ["Playfair Display", "serif"],
       colors: {
         primary: "#1E293B", // Soft navy
         secondary: "#64748B", // Muted slate gray
@@ -26,6 +24,5 @@ export default {
       },
     },
   },
-  // eslint-disable-next-line no-undef
   plugins: [require("flowbite/plugin")],
 };
