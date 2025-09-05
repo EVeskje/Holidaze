@@ -8,7 +8,7 @@ import { PrimaryButton } from "../../ui_elements/Buttons/PrimaryButton";
 import { InputField } from "../../form_elements/InputField";
 
 import { register as registerUser } from "../../../js/api/auth/register.jsx";
-import { login as loginUser } from "../../../js/api/auth/logIn.jsx";
+import { login as loginUser } from "../../../js/api/auth/login.jsx";
 
 /* Validation */
 const schema = yup

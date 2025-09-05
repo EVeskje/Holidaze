@@ -1,6 +1,6 @@
 // src/js/utils/handleImageErrors.jsx
 
-// Tiny gray placeholder
+// Tiny gray placeholder (no network fetch)
 const FALLBACK_SVG =
   'data:image/svg+xml;utf8,' +
   encodeURIComponent(
@@ -14,7 +14,7 @@ const FALLBACK_SVG =
 /**
  * Swap a broken <img> to a safe placeholder once, with no infinite loops.
  * @param {React.SyntheticEvent<HTMLImageElement>|Event} e
- * @param {string} [placeholderUrl] 
+ * @param {string} [placeholderUrl]  an imported image URL (recommended)
  * @param {string} [altText="Image not available"]
  */
 export const handleImageErrors = (e, placeholderUrl, altText = "Image not available") => {

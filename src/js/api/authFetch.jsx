@@ -50,6 +50,7 @@ export const authFetch = (url, options = {}) => {
     json = false;
   }
 
+  // Build default headers (auth, api key, accept, optional JSON content-type)
   const generated = buildHeaders({ json });
 
   // Merge with caller headers (caller wins)

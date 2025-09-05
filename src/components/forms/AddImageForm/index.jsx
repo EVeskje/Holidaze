@@ -39,7 +39,7 @@ export const AddImageForm = ({ setImages, errors, isSubmitted, venue }) => {
     });
   };
 
-
+  // Optional mild client-side hinting (not a validator)
   const looksLikeUrl = (v) =>
     !v || /^https?:\/\/.+/i.test(v);
 
