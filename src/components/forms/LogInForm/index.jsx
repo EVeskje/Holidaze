@@ -4,7 +4,7 @@ import { useForm } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
 import * as yup from "yup";
 
-import { login as loginUser } from "../../../js/api/auth/login.jsx";
+import { login as loginUser } from "../../../js/api/auth/logIn.jsx";
 import { InputField } from "../../form_elements/InputField";
 import { PrimaryButton } from "../../ui_elements/Buttons/PrimaryButton";
 
