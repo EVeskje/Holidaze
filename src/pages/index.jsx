@@ -3,7 +3,9 @@ export { AddEditVenue } from "./AddEditVenue";
 export { ConfirmedBooking } from "./ConfirmedBooking";
 export { Contact } from "./Contact";
 export { Home } from "./Home";
-export { LogIn } from "./LogIn";
+
+export { LogIn } from "./LogIn/index.jsx";
+
 export { Profile } from "./Profile";
 export { SignUp } from "./SignUp";
 export { SingleVenue } from "./SingleVenue";
