@@ -1,5 +1,9 @@
-import { HeaderNav } from "../../Navigation/HeaderNav";
+import { HeaderNav } from "../../Navigation/HeaderNav/index";
 
 export const Header = () => {
-  return <HeaderNav />;
+  return (
+    <header>
+      <HeaderNav />
+    </header>
+  );
 };
