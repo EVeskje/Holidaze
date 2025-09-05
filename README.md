@@ -2,6 +2,8 @@
 
 A front-end accommodation booking application built as part of a final school project. Holidaze is a modern platform that allows users to explore, book, and manage holiday venues through a responsive, user-friendly interface.
 
+![Screenshot of website](/src/assets/images/holidazeScreenshot.jpg)
+
 ## 📌 Project Goal
 
 The goal of this project is to demonstrate the developer’s capabilities in planning, designing, and implementing a fully functional front-end application using modern web development tools and techniques. It reflects both technical and visual development skills acquired over the past two years.
@@ -79,11 +81,6 @@ The application consists of two main user flows:
 - ✅ Design must be created using **Figma**, **XD**, or **Sketch**
 - ✅ Project planning must be done in **GitHub Projects** or **Trello**
 
----
-
-## 📸 Screenshots
-
-![Screenshot of website](/src/assets/images/holidazeScreenshot.jpg)
 ---
 
 ## ⚠️ Disclaimer
