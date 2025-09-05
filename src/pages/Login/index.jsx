@@ -4,6 +4,10 @@ import { Helmet } from "react-helmet-async";
 import { LogInForm } from "../../components/forms/LogInForm";
 import { TextLink } from "../../components/ui_elements/TextLink";
 
+// ---------------------------------------------
+// Log in Page
+// ---------------------------------------------
+
 export const LogIn = () => {
   return (
     <>
