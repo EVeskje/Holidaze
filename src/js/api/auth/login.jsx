@@ -3,7 +3,7 @@ import { save } from "../../storage/save";
 import { authFetch } from "../authFetch";
 
 
-export const login = async (email, password) => {
+export const logIn = async (email, password) => {
   try {
     const res = await authFetch(API_Base_Url + API_Auth + API_Login_Url, {
       method: "POST",
