@@ -13,7 +13,7 @@ export const LogIn = () => {
   return (
     <>
       <Helmet>
-        <title>Log in | Holidaze</title>
+        <title>Log In | Holidaze</title>
         <meta name="description" content="Log in to your Holidaze account." />
       </Helmet>
 
