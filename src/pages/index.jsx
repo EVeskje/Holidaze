@@ -4,7 +4,7 @@ export { ConfirmedBooking } from "./ConfirmedBooking";
 export { Contact } from "./Contact";
 export { Home } from "./Home";
 
-export { LogIn } from "./LogIn/index.jsx";
+export { LogIn } from "./Login";
 
 export { Profile } from "./Profile";
 export { SignUp } from "./SignUp";
