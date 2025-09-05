@@ -41,7 +41,7 @@ export const LogInForm = () => {
       navigate("/");
     } catch (error) {
       // Show a friendly message; prefer API error text if present
-      setFormError(error?.message || "Login failed. Please try again.");
+      setFormError(error?.message || "Log in failed. Please try again.");
     }
   };
 

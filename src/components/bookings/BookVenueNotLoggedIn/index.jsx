@@ -29,7 +29,7 @@ export const BookVenueNotLoggedIn = () => {
       </p>
 
       {/* CTA */}
-      <Link to="/logIn" aria-label="Log in" className="mt-6 block">
+      <Link to="/login" aria-label="Log in" className="mt-6 block">
         <PrimaryButton className="h-11 w-full justify-center">
           Log in
         </PrimaryButton>
