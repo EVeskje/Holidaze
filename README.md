@@ -67,7 +67,7 @@ The application consists of two main user flows:
 | 📁 Repository         | [GitHub Repository](https://github.com/EVeskje/Holidaze.git) |
 | 🎨 Figma Design       | [Figma Prototype](https://...)   |
 | 🎯 Style Guide        | [Style Guide](https://...)       |
-| 🗓️ Gantt Chart        | [Gantt Chart](https://...)       |
+| 🗓️ Gantt Chart        | [Gantt Chart](./docs/holidaze_gantt.pdf)       |
 | 🗂️ Kanban Board       | [GitHub Project Board](https://...) |
 | 📚 API Documentation  | [Holidaze API Docs](https://docs.noroff.dev/docs/v2) |
 
