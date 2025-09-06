@@ -71,7 +71,7 @@ The application consists of two main user flows:
 | 🎨 Figma Design | [Figma Prototype](https://www.figma.com/design/klxhAp1Gw71AgjGRErBx5t/Holidaiz?node-id=0-1&t=NUSuECkebOimnRuO-1) |
 
 | 🗓️ Gantt Chart | [Gantt Chart](./docs/holidaze_gantt.pdf) |
-| 🗂️ Kanban Board | [GitHub Project Board](https://...) |
+| 🗂️ Kanban Board | [Trello Project Board](https://trello.com/invite/b/68bc1a36de8b7423526d59c0/ATTI67bb1d89737dad85a8e084905408c3ca0A20F9F3/holidaiz) |
 | 📚 API Documentation | [Holidaze API Docs](https://docs.noroff.dev/docs/v2) |
 
 ---
