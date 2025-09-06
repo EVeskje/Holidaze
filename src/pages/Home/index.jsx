@@ -154,7 +154,7 @@ export const Home = () => {
   /* Handlers */
   const handleSearch = (term) => setSearchTerm(term);
 
-  /* Render helpers (uniform container + comfy spacing) */
+  /* Render helpers */
   const Container = ({ children }) => (
     <div className="mx-auto w-11/12 max-w-screen-2xl px-0">{children}</div>
   );

@@ -9,7 +9,7 @@ import { formatPrice } from "../../../js/utils/formatPrice";
 import { handleImageErrors } from "../../../js/utils/handleImageErrors";
 
 /* ==============================
-   MyVenues – Modern row cards
+   MyVenues Page
    ============================== */
 export const MyVenues = ({ venuesData = [] }) => {
   return (

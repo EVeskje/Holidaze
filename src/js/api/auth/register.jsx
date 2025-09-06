@@ -38,7 +38,7 @@ export const register = async (name, email, password, profileImgUrl) => {
       throw err;
     }
 
-    return parsed; // preserve existing return behavior
+    return parsed;
   } catch (err) {
     console.error("Registration failed:", err);
     throw err instanceof Error ? err : new Error("Could not register the account");

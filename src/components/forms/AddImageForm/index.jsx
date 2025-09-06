@@ -39,11 +39,11 @@ export const AddImageForm = ({ setImages, errors, isSubmitted, venue }) => {
     });
   };
 
-  // Optional mild client-side hinting (not a validator)
+  // Mild client-side hinting (not a validator)
   const looksLikeUrl = (v) =>
     !v || /^https?:\/\/.+/i.test(v);
 
-  // Build an error message from RHF/Yup, regardless of structure
+  // Build an error message from RHF/Yup
   const topLevelError =
     (errors?.images && "message" in errors.images && errors.images.message) ||
     (Array.isArray(errors?.images) && errors.images[0]?.message) ||

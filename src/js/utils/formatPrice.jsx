@@ -1,5 +1,3 @@
-// src/js/utils/formatPrice.jsx
-
 /** Parse numbers safely from number|string inputs */
 function toNumber(value) {
   if (typeof value === "number" && Number.isFinite(value)) return value;
@@ -66,7 +64,7 @@ export const formatPrice = (value = 0, opts = {}) => {
   return spaceGroup(n, 0);
 };
 
-/* Optional convenience helper if you often show cents for currency */
+/* Convenience helper if you often show cents for currency */
 export const formatCurrency = (value = 0, currency = "USD", locale) =>
   formatPrice(value, {
     currency,

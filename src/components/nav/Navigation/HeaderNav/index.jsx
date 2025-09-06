@@ -102,7 +102,7 @@ export const HeaderNav = () => {
           </button>
         </div>
 
-        {/* Mobile menu (animated height) */}
+        {/* Mobile menu */}
         <div
           id="mobile-menu"
           className={`${open ? "grid-rows-[1fr]" : "grid-rows-[0fr]"} md:hidden grid overflow-hidden transition-[grid-template-rows] duration-300 ease-out`}

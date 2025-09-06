@@ -1,4 +1,3 @@
-// save.js
 export const save = (key, value) => {
   try {
     if (typeof window === "undefined") return; // SSR / tests
