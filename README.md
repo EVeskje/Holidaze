@@ -27,12 +27,14 @@ The application consists of two main user flows:
 ## 🧩 Features (User Stories)
 
 ### General Users
+
 - 🔍 View a list of venues
 - 🔎 Search for a specific venue
 - 🏡 View a venue by its ID
 - 📅 See a calendar with available booking dates
 
 ### Customers (Registered users with `@stud.noroff.no`)
+
 - 📝 Register as a customer
 - 📆 Create bookings at venues
 - 📁 View their upcoming bookings
@@ -40,6 +42,7 @@ The application consists of two main user flows:
 - 🔐 Login/logout
 
 ### Venue Managers (Registered users with `@stud.noroff.no`)
+
 - 🏨 Register as a venue manager
 - 🏗️ Create a new venue
 - ✏️ Update a venue
@@ -61,15 +64,15 @@ The application consists of two main user flows:
 
 ## 🔗 Project Links
 
-| Resource              | Link                             |
-|-----------------------|----------------------------------|
-| 💻 Live Demo          | [Holidaze Demo](https://holi-daiz.netlify.app/)     |
-| 📁 Repository         | [GitHub Repository](https://github.com/EVeskje/Holidaze.git) |
-| 🎨 Figma Design       | [Figma Prototype](https://...)   |
-| 🎯 Style Guide        | [Style Guide](https://...)       |
-| 🗓️ Gantt Chart        | [Gantt Chart](./docs/holidaze_gantt.pdf)       |
-| 🗂️ Kanban Board       | [GitHub Project Board](https://...) |
-| 📚 API Documentation  | [Holidaze API Docs](https://docs.noroff.dev/docs/v2) |
+| Resource             | Link                                                                                                             |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 💻 Live Demo         | [Holidaze Demo](https://holi-daiz.netlify.app/)                                                                  |
+| 📁 Repository        | [GitHub Repository](https://github.com/EVeskje/Holidaze.git)                                                     |
+| 🎨 Figma Design      | [Figma Prototype](https://www.figma.com/design/klxhAp1Gw71AgjGRErBx5t/Holidaiz?node-id=0-1&t=NUSuECkebOimnRuO-1) |
+| 🎯 Style Guide       | [Style Guide](https://...)                                                                                       |
+| 🗓️ Gantt Chart       | [Gantt Chart](./docs/holidaze_gantt.pdf)                                                                         |
+| 🗂️ Kanban Board      | [GitHub Project Board](https://...)                                                                              |
+| 📚 API Documentation | [Holidaze API Docs](https://docs.noroff.dev/docs/v2)                                                             |
 
 ---
 
