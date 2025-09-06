@@ -75,6 +75,35 @@ The application consists of two main user flows:
 
 ---
 
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/EVeskje/Holidaze.git
+cd Holidaze
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run locally
+
+```bash
+npm run dev
+```
+
+### 4. Build for production
+
+```bash
+npm run build
+```
+
 ## 🚦 Technical Requirements
 
 - ✅ Must use **React** (v16+)
