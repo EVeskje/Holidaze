@@ -64,15 +64,15 @@ The application consists of two main user flows:
 
 ## 🔗 Project Links
 
-| Resource             | Link                                                                                                             |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 💻 Live Demo         | [Holidaze Demo](https://holi-daiz.netlify.app/)                                                                  |
-| 📁 Repository        | [GitHub Repository](https://github.com/EVeskje/Holidaze.git)                                                     |
-| 🎨 Figma Design      | [Figma Prototype](https://www.figma.com/design/klxhAp1Gw71AgjGRErBx5t/Holidaiz?node-id=0-1&t=NUSuECkebOimnRuO-1) |
-| 🎯 Style Guide       | [Style Guide](https://...)                                                                                       |
-| 🗓️ Gantt Chart       | [Gantt Chart](./docs/holidaze_gantt.pdf)                                                                         |
-| 🗂️ Kanban Board      | [GitHub Project Board](https://...)                                                                              |
-| 📚 API Documentation | [Holidaze API Docs](https://docs.noroff.dev/docs/v2)                                                             |
+| Resource        | Link                                                                                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 💻 Live Demo    | [Holidaze Demo](https://holi-daiz.netlify.app/)                                                                  |
+| 📁 Repository   | [GitHub Repository](https://github.com/EVeskje/Holidaze.git)                                                     |
+| 🎨 Figma Design | [Figma Prototype](https://www.figma.com/design/klxhAp1Gw71AgjGRErBx5t/Holidaiz?node-id=0-1&t=NUSuECkebOimnRuO-1) |
+
+| 🗓️ Gantt Chart | [Gantt Chart](./docs/holidaze_gantt.pdf) |
+| 🗂️ Kanban Board | [GitHub Project Board](https://...) |
+| 📚 API Documentation | [Holidaze API Docs](https://docs.noroff.dev/docs/v2) |
 
 ---
 
